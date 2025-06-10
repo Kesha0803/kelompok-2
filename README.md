@@ -36,7 +36,7 @@ lib/
 │   ├── product_screen.dart
 │   └── receipt_screen.dart
 │
-└── main.dart                         # Entry point dari aplikasi Flutter
+└── main.dart
 
 ## Getting Started
 
