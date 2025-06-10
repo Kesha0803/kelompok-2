@@ -15,6 +15,28 @@ Aplikasi cardigan_collection adalah aplikasi e-commerce sederhana berbasis Flutt
 6. Halaman Nota Pembelian
 
 # Folder Structure
+lib/
+├── consts/
+│   ├── colors.dart           # Definisi warna-warna yang digunakan di seluruh aplikasi
+│   ├── consts.dart           # Konstanta umum
+│   ├── images.dart           # Path atau referensi gambar-gambar yang digunakan
+│   ├── strings.dart          # String literal (seperti teks label, judul, dll)
+│   └── styles.dart           # Gaya teks dan tema aplikasi
+│
+├── providers/
+│   ├── cart_provider.dart            # Provider untuk mengelola state keranjang
+│   └── favorite_provider.dart        # Provider untuk mengelola state item favorit
+│
+├── screens/
+│   ├── cart_screen.dart              # Tampilan layar keranjang belanja
+│   ├── favorites_screen.dart        # Tampilan layar daftar favorit
+│   ├── invoice_screen.dart          # Tampilan layar invoice atau faktur
+│   ├── product_detail_screen.dart   # Tampilan detail produk
+│   ├── product_list_screen.dart     # Tampilan daftar semua produk
+│   ├── product_screen.dart          # Tampilan utama produk
+│   └── receipt_screen.dart          # Tampilan layar struk pembelian
+│
+└── main.dart                         # Entry point dari aplikasi Flutter
 
 ## Getting Started
 
