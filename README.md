@@ -1,7 +1,20 @@
 # Cardigan_Collection
 
-A new Flutter project.
+Aplikasi cardigan_collection adalah aplikasi e-commerce sederhana berbasis Flutter yang dirancang untuk menjual berbagai jenis cardigan dengan tampilan menarik dan pengalaman pengguna yang mudah digunakan. Aplikasi ini memiliki beberapa fitur seperti:
+1. Menelusuri koleksi cardigan berdasarkan kategori atau popularitas.
+2. Melihat detail produk seperti harga, deskripsi, dan foto.
+3. Menambahkan produk ke keranjang belanja.
+4. Melakukan proses checkout dengan alur yang sederhana.
 
+# Features
+1. Halaman Daftar Produk
+2. Halaman Detail Produk
+3. Halaman Favorite
+4. Halaman Keranjang
+5. Halaman Invoice Pembelian
+6. Halaman Nota Pembelian
+
+# Folder Structure
 
 ## Getting Started
 
